@@ -1,4 +1,4 @@
-# IGProfilePostDownloader
+# Instagram Profile Posts Downloader
 Easy way to download your instagram posts.
 
 ## Attention
